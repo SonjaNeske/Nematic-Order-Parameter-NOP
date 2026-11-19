@@ -14,7 +14,7 @@ The NOP quantifies the degree of directional alignment of point pairs within a s
 
 ## Function
 
-`compute_nematic_order_from_binary(center_2d, dx, dy, r_min=0.0, r_max=1000.0)`
+`compute_nematic_order_from_binary(center_2d, dx, dy, r_min, r_max)`
 
 **Inputs:**
 
